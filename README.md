@@ -29,7 +29,3 @@ $ http-server -o
 ### Tech
 Vue, Vue-cli, Vue Router, Vuex, Axios
 
-
-
-
-# recipe-app
