@@ -1,6 +1,6 @@
 # Recipe App 
 
-- This Vue app shows a list view which includes all the recipess 
+- This Vue app shows a list view which includes all the recipes
 - Has a recipe detail view to display each recipe
 - In the detail view, ingredients with a matching ingredientId listed in the specials response should also show the special title, type and text under the ingredient name
 - Has a view to add new specials
